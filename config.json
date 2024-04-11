@@ -1,0 +1,18 @@
+{
+  "name": "PortMapping",
+  "shortName": "portmapping",
+  "version": "0.0.1",
+  "author": "Samer Kouki",
+  "description": "Mapps port from and to any node",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/samerkouki123/portmapping",
+  "changelogUrl": "",
+  "configUrl": "",
+  "downloadUrl": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "versionHistoryUrl": "",
+  "meshCentralCompat": ">=0.9.98"
+}
