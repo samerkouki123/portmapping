@@ -6,9 +6,9 @@
   "description": "Mapps port from and to any node",
   "hasAdminPanel": false,
   "homepage": "https://github.com/samerkouki123/portmapping",
-  "changelogUrl": "https://github.com/samerkouki123/portmapping/blob/main/changelog.md",
-  "configUrl": "https://github.com/samerkouki123/portmapping/blob/main/config.json",
-  "downloadUrl": "https://github.com/samerkouki123/portmapping/archive/refs/heads/main.zip",
+  "changelogUrl": "https://raw.githubusercontent.com/samerkouki123/portmapping/main/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/samerkouki123/portmapping/main/config.json",
+  "downloadUrl": "https://github.com/samerkouki123/portmapping/archive/main.zip",
   "repository": {
     "type": "git",
     "url": "https://github.com/samerkouki123/portmapping.git"
