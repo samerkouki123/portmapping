@@ -6,13 +6,13 @@
   "description": "Mapps port from and to any node",
   "hasAdminPanel": false,
   "homepage": "https://github.com/samerkouki123/portmapping",
-  "changelogUrl": "",
-  "configUrl": "",
-  "downloadUrl": "",
+  "changelogUrl": "https://github.com/samerkouki123/portmapping/blob/main/changelog.md",
+  "configUrl": "https://github.com/samerkouki123/portmapping/blob/main/config.json",
+  "downloadUrl": "https://github.com/samerkouki123/portmapping/archive/refs/heads/main.zip",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/samerkouki123/portmapping.git"
   },
-  "versionHistoryUrl": "",
+  "versionHistoryUrl": "https://github.com/samerkouki123/portmapping/tags",
   "meshCentralCompat": ">=0.9.98"
 }
