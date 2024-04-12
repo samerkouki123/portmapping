@@ -8,11 +8,11 @@ module.exports.portmapping = function (parent) {
   obj.exports = [];
 
   obj.server_startup = function () {
-    console.log("SERVER_STARTED");
+    console.log("SERVER_STARTED_Test");
   };
 
   obj.hook_agentCoreIsStable = function (myparent, gp) {
-    console.log("AGENT_IS_CONNECTED");
+    console.log("AGENT_IS_CONNECTED_Test");
   };
 
   return obj;
